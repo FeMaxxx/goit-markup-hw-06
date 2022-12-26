@@ -1,0 +1,38 @@
+.quality {
+  &.section {
+    padding-bottom: 0px;
+  }
+}
+
+.quality_list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.quality_list-point {
+  width: 264px;
+}
+
+.quality_icon-box {
+  margin-bottom: 8px;
+
+  display: flex;
+  width: 264px;
+  height: 112px;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--bg-color3);
+  border-radius: 4px;
+}
+
+.quality_list-title {
+  margin-bottom: 8px;
+
+  font-weight: var(--title2-weight);
+  font-size: var(--title2-size);
+  line-height: var(--title2-height);
+}
+
+.quality_list-paragraf {
+  color: var(--text-color2);
+}

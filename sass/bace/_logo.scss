@@ -1,0 +1,18 @@
+.logo {
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.33;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--text-color1);
+  font-family: var(--logo-text);
+  text-decoration: none;
+
+  .logo_accent {
+    color: var(--accent-color);
+  }
+}
+
+.footer_logo {
+  color: #f4f4fd;
+}

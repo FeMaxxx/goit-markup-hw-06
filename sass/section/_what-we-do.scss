@@ -1,0 +1,16 @@
+.what-we-do {
+}
+
+.what-we-do_list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.what-we-do_title {
+  margin-bottom: 72px;
+
+  font-size: var(--title1-size);
+  line-height: var(--title1-height);
+  text-align: center;
+  text-transform: capitalize;
+}

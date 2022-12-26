@@ -1,0 +1,19 @@
+@use "project-elements";
+
+// bace
+@import "./bace/project-elements";
+@import "./bace/_bace.scss";
+@import "./bace/container";
+@import "./bace/logo";
+
+// section
+@import "./section/filter-buttons";
+@import "./section/footer";
+@import "./section/header";
+@import "./section/hiro";
+@import "./section/our-team";
+@import "./section/projects";
+@import "./section/quality";
+@import "./section/what-we-do";
+@import "./section/customers";
+@import "./section/modal";
