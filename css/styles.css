@@ -599,6 +599,7 @@ p {
 }
 
 .modal_title {
+  margin-bottom: 16px;
   font-weight: var(--title2-weight);
   font-size: inherit;
   text-align: center;
